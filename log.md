@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 05, 2017 
+### Day 1: June 05, 2017 @ 13:40
 ##### (delete me or comment me out)
 
 **Today's Progress**: Starting the challenge, working on fully understanding reduce.
