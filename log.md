@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 05, 2017 
+### Day 1: June 05, 2017 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Starting the challenge, working on fully understanding reduce.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** First day of the 100 days of code challange. For this challenge, I want to focus on HTML, CSS and JavaScript, mainly via FCC..
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [CodePen](https://codepen.io/danielbrings/pen/LLYwJq)
 
 
 
