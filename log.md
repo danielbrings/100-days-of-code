@@ -13,7 +13,7 @@
 
 **Link to work:** [CodePen](https://codepen.io/danielbrings/pen/LLYwJq)
 
-### Day 2: June 06, 2017 @ 22:10
+### Day 2: June 06, 2017 @ 22:10 (1 hour)
 
 **Today's Progress**: Work on Exact Change challenge from FCC.
 
@@ -21,9 +21,9 @@
 
 **Link to work:** 
 
-### Day 3: June 07, 2017 @ 21:42
+### Day 3: June 07, 2017 @ 21:42 (1 hour)
 
-**Today's Progress**: Continue working on Exact Change challenge from FCC.
+**Today's Progress**: Complete Exact Change challenge from FCC.
 
 **Thoughts:** 3rd day... still a long way to make it an habit... but I would say that was easier to sit in front of the PC than yesterday..
 
