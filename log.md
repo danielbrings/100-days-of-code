@@ -17,8 +17,15 @@
 
 **Today's Progress**: Work on Exact Change challenge from FCC.
 
-
 **Thoughts:** 2nd day of the 100 days of code challange. It is gonna be tough to keep it.
+
+**Link to work:** 
+
+### Day 3: June 07, 2017 @ 21:42
+
+**Today's Progress**: Continue working on Exact Change challenge from FCC.
+
+**Thoughts:** 3rd day... still a long way to make it an habit... but I would say that was easier to sit in front of the PC than yesterday..
 
 **Link to work:** 
 
