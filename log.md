@@ -29,5 +29,13 @@
 
 **Link to work:** 
 
+### Day 4: June 08, 2017 @ 21:36 (1 hour)
+
+**Today's Progress**: From FCC, complete on Inventory Update and start No repeats please.
+
+**Thoughts:** Tired...
+
+**Link to work:** 
+
 
 
