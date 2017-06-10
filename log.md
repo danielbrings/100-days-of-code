@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log (6 hours total)
 
 ### Day 6: June 10, 2017 @ 12:02 (1 hour)
 
