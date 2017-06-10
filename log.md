@@ -2,9 +2,9 @@
 
 ### Day 6: June 10, 2017 @ 12:02 (x hour)
 
-**Today's Progress**: From FCC, complete on Inventory Update and start No repeats please.
+**Today's Progress**: From FCC, complete No repeats please and start Make a person.
 
-**Thoughts:** ...
+**Thoughts:** I used the following online regex checker: https://regex101.com/
 
 **Link to work:**
 
@@ -14,7 +14,7 @@
 
 **Thoughts:** ...
 
-**Link to work:**
+
 
 ### Day 4: June 08, 2017 @ 21:36 (1 hour)
 
