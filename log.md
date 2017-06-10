@@ -2,7 +2,7 @@
 
 ### Day 6: June 10, 2017 @ 12:02 (3 hours)
 
-**Today's Progress**: From FCC, complete "No repeats please" , "Make a person" (learning about objects) & "Map the debris".
+**Today's Progress**: From FCC, complete "No repeats please" , "Make a person" (learning about objects) & "Map the debris" &"Pairwise".
 
 **Thoughts:** I used the following online regex checker: https://regex101.com/
 
