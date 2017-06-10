@@ -1,8 +1,8 @@
-# 100 Days Of Code - Log (6 hours total)
+# 100 Days Of Code - Log (7 hours total)
 
-### Day 6: June 10, 2017 @ 12:02 (1 hour)
+### Day 6: June 10, 2017 @ 12:02 (2 hour)
 
-**Today's Progress**: From FCC, complete No repeats please and start Make a person (learning about objects).
+**Today's Progress**: From FCC, complete No repeats please and Make a person (learning about objects).
 
 **Thoughts:** I used the following online regex checker: https://regex101.com/
 
