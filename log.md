@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 6: June 10, 2017 @ 12:02 (x hour)
+### Day 6: June 10, 2017 @ 12:02 (1 hour)
 
 **Today's Progress**: From FCC, complete No repeats please and start Make a person.
 
@@ -40,7 +40,7 @@
 
 **Link to work:** 
 
-### Day 1: June 05, 2017 @ 2 hours.
+### Day 1: June 05, 2017 (2 hours)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Mainly starting the challenge, working on fully understanding reduce. Complete symmetric difference challenge from FCC.
