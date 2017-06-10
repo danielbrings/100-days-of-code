@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 10, 2017 @ 12:02 (x hour)
+
+**Today's Progress**: From FCC, complete on Inventory Update and start No repeats please.
+
+**Thoughts:** ...
+
+**Link to work:**
+
+### Day 5: June 09, 2017 @ 21:36 (0 hours)
+
+**Today's Progress**: I did not mange to have 1 hour to seat and code :(
+
+**Thoughts:** ...
+
+**Link to work:**
+
+### Day 4: June 08, 2017 @ 21:36 (1 hour)
+
+**Today's Progress**: From FCC, complete on Inventory Update and start No repeats please.
+
+**Thoughts:** Tired...
+
+**Link to work:**
+
+### Day 3: June 07, 2017 @ 21:42 (1 hour)
+
+**Today's Progress**: Complete Exact Change challenge from FCC.
+
+**Thoughts:** 3rd day... still a long way to make it an habit... but I would say that was easier to sit in front of the PC than yesterday..
+
+**Link to work:**
+
+### Day 2: June 06, 2017 @ 22:10 (1 hour)
+
+**Today's Progress**: Work on Exact Change challenge from FCC.
+
+**Thoughts:** 2nd day of the 100 days of code challange. It is gonna be tough to keep it.
+
+**Link to work:** 
+
 ### Day 1: June 05, 2017 @ 2 hours.
 ##### (delete me or comment me out)
 
@@ -13,29 +53,11 @@
 
 **Link to work:** [CodePen](https://codepen.io/danielbrings/pen/LLYwJq)
 
-### Day 2: June 06, 2017 @ 22:10 (1 hour)
 
-**Today's Progress**: Work on Exact Change challenge from FCC.
 
-**Thoughts:** 2nd day of the 100 days of code challange. It is gonna be tough to keep it.
 
-**Link to work:** 
 
-### Day 3: June 07, 2017 @ 21:42 (1 hour)
 
-**Today's Progress**: Complete Exact Change challenge from FCC.
-
-**Thoughts:** 3rd day... still a long way to make it an habit... but I would say that was easier to sit in front of the PC than yesterday..
-
-**Link to work:** 
-
-### Day 4: June 08, 2017 @ 21:36 (1 hour)
-
-**Today's Progress**: From FCC, complete on Inventory Update and start No repeats please.
-
-**Thoughts:** Tired...
-
-**Link to work:** 
 
 
 
