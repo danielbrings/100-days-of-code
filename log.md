@@ -2,11 +2,14 @@
 
 ### Day 6: June 10, 2017 @ 12:02 (1 hour)
 
-**Today's Progress**: From FCC, complete No repeats please and start Make a person.
+**Today's Progress**: From FCC, complete No repeats please and start Make a person (learning about objects).
 
 **Thoughts:** I used the following online regex checker: https://regex101.com/
 
-**Link to work:**
+**Link to work: https://codepen.io/danielbrings/pen/vZGLXm
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
+
 
 ### Day 5: June 09, 2017 @ 21:36 (0 hours)
 
