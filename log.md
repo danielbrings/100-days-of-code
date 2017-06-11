@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log (8 hours total)
+# 100 Days Of Code - Log (9 hours total)
 
-### Day 7: June 11, 2017 @ 14:29 (x hours)
+### Day 7: June 11, 2017 @ 14:29 (1 hour)
 
 **Today's Progress**: Start with the Wikipedia Viewer
 
