@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (8 hours total)
 
+### Day 7: June 11, 2017 @ 14:29 (x hours)
+
+**Today's Progress**: Start with the Wikipedia Viewer
+
+**Thoughts:** Building momentum.
+
+**Link to work: https://codepen.io/danielbrings/pen/PmPqbd
+
 ### Day 6: June 10, 2017 @ 12:02 (3 hours)
 
 **Today's Progress**: From FCC, complete "No repeats please" , "Make a person" (learning about objects) & "Map the debris" &"Pairwise".
