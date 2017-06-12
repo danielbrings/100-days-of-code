@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log (9 hours total)
+# 100 Days Of Code - Log (10 hours total)
 
 ### Day 8: June 12, 2017 @ 21:34 (1 hour)
 
