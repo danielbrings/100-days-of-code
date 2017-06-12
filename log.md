@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (9 hours total)
 
+### Day 8: June 12, 2017 @ 21:34 (x hour)
+
+**Today's Progress**: Start with the Wikipedia Viewer
+
+**Thoughts:** Keeping building momentum. I hate this Wikipedia Viewer exercise but the momentum is helping to sit down and code.
+
+**Link to work: https://codepen.io/danielbrings/pen/PmPqbd
+
 ### Day 7: June 11, 2017 @ 14:29 (1 hour)
 
 **Today's Progress**: Start with the Wikipedia Viewer
