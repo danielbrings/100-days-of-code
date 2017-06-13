@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log (10 hours total)
+# 100 Days Of Code - Log (11 hours total)
 
-### Day 9: June 13, 2017 @ 21:31 (x hour)
+### Day 9: June 13, 2017 @ 21:31 (1 hour)
 
 **Today's Progress**: Continue with the Wikipedia Viewer
 
