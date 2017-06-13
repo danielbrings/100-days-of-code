@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (10 hours total)
 
+### Day 9: June 13, 2017 @ 21:31 (x hour)
+
+**Today's Progress**: Continue with the Wikipedia Viewer
+
+**Thoughts:** Keep pushing.
+
+**Link to work: https://codepen.io/danielbrings/pen/PmPqbd
+
 ### Day 8: June 12, 2017 @ 21:34 (1 hour)
 
 **Today's Progress**: Start with the Wikipedia Viewer
