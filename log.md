@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (11 hours total)
 
+### Day 10: June 14, 2017 @ 22:29 (x hour)
+
+**Today's Progress**: Continue with the Wikipedia Viewer
+
+**Thoughts:** After long working day, it is difficult to code for 1 hour, I almost gave up for Netflix.
+
+**Link to work: https://codepen.io/danielbrings/pen/PmPqbd
+
 ### Day 9: June 13, 2017 @ 21:31 (1 hour)
 
 **Today's Progress**: Continue with the Wikipedia Viewer
