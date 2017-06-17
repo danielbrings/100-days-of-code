@@ -1,10 +1,12 @@
-# 100 Days Of Code - Log (12 hours total) 10 over 13
+# 100 Days Of Code - Log (13 hours total) 10 over 13
 
-### Day 13: June 17, 2017 @ 12:20 (x hours)
+### Day 13: June 17, 2017 @ 12:20 (1 hours)
 
-**Today's Progress**: 
+**Today's Progress**: Continue with the Wikipedia Viewer
 
-**Thoughts:** ...
+**Thoughts:** I just missed 2 days in a row... I guess the code is failed but I will continue till 100...
+
+**Link to work: https://codepen.io/danielbrings/pen/PmPqbd
 
 ### Day 12: June 16, 2017 @  (0 hours)
 
