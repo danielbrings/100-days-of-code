@@ -2,11 +2,12 @@
 
 ### Day 13: June 17, 2017 @ 12:20 (1 hours)
 
-**Today's Progress**: Continue with the Wikipedia Viewer
+**Today's Progress**: Complete the Wikipedia Viewer and start with Twitch.tv JSON challenge
 
 **Thoughts:** I just missed 2 days in a row... I guess the code is failed but I will continue till 100...
 
-**Link to work: https://codepen.io/danielbrings/pen/PmPqbd
+**Link to work: 
+  - Wikipedia viewerhttps://codepen.io/danielbrings/pen/PmPqbd
 
 ### Day 12: June 16, 2017 @  (0 hours)
 
