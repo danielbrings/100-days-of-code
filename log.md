@@ -8,7 +8,7 @@
 
 **Link to work:** 
   - Wikipedia viewer: https://codepen.io/danielbrings/pen/PmPqbd
-  - Twitch.tv JSON:
+  - Twitch.tv JSON: https://codepen.io/danielbrings/pen/jwyZRd
 
 ### Day 12: June 16, 2017 @  (0 hours)
 
