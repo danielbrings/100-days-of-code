@@ -2,7 +2,7 @@
 
 ### Day 13: June 17, 2017 @ 12:20 (x hours)
 
-**Today's Progress**: I did not mange to have 1 hour to seat and code :(
+**Today's Progress**: 
 
 **Thoughts:** ...
 
