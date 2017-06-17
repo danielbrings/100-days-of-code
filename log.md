@@ -1,4 +1,22 @@
-# 100 Days Of Code - Log (12 hours total)
+# 100 Days Of Code - Log (12 hours total) 10 over 13
+
+### Day 13: June 17, 2017 @ 12:20 (x hours)
+
+**Today's Progress**: I did not mange to have 1 hour to seat and code :(
+
+**Thoughts:** ...
+
+### Day 12: June 16, 2017 @  (0 hours)
+
+**Today's Progress**: I did not mange to have 1 hour to seat and code :(
+
+**Thoughts:** ...
+
+### Day 11: June 15, 2017 @  (0 hours)
+
+**Today's Progress**: I did not mange to have 1 hour to seat and code :(
+
+**Thoughts:** ...
 
 ### Day 10: June 14, 2017 @ 22:29 (1 hour)
 
