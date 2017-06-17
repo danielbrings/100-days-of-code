@@ -6,8 +6,9 @@
 
 **Thoughts:** I just missed 2 days in a row... I guess the code is failed but I will continue till 100...
 
-**Link to work: 
-  - Wikipedia viewerhttps://codepen.io/danielbrings/pen/PmPqbd
+**Link to work:** 
+  - Wikipedia viewer: https://codepen.io/danielbrings/pen/PmPqbd
+  - Twitch.tv JSON:
 
 ### Day 12: June 16, 2017 @  (0 hours)
 
