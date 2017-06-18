@@ -7,7 +7,7 @@
 **Thoughts:** Keep pushing...
 
 **Link to work:**  
-  - Twitch.tv JSON: https://codepen.io/danielbrings/pen/jwyZRd
+  - Twitch.tv JSON: https://codepen.io/danielbrings/pen/eRgaoq
 
 ### Day 13: June 17, 2017 @ 12:20 (1 hours)
 
