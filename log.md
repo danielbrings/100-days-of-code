@@ -1,4 +1,13 @@
-# 100 Days Of Code - Log (13 hours total) 10 over 13
+# 100 Days Of Code - Log (13 hours total) 11 over 14
+
+### Day 14: June 17, 2017 @ 21:40 (x hours)
+
+**Today's Progress**: Complete the Wikipedia Viewer and start with Twitch.tv JSON challenge
+
+**Thoughts:** Keep pushing...
+
+**Link to work:**  
+  - Twitch.tv JSON: https://codepen.io/danielbrings/pen/jwyZRd
 
 ### Day 13: June 17, 2017 @ 12:20 (1 hours)
 
@@ -109,12 +118,6 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriente
 **Thoughts:** First day of the 100 days of code challange. For this challenge, I want to focus on HTML, CSS and JavaScript, mainly via FCC.
 
 **Link to work:** [CodePen](https://codepen.io/danielbrings/pen/LLYwJq)
-
-
-
-
-
-
 
 
 
